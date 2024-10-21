@@ -1,14 +1,13 @@
+# 📈 Data Scientist
 
-# 🚀 Data Scientist
-
-🔍 **Specializing in Data Science & MLOps | Python | Cloud Platforms | Machine Learning | Data Engineering**
+🔍 **Specializing in Data Science and MLOps**
 
 ---
 
 ## 🛠️ Specialized Technical Skills 
 
 ### 1. Programming & Scripting 
-- **Proficiency:** Python | SQL | Bash
+- **Proficiency:** Python, SQL, Bash, C & Julia
 - **Applications:** Data Analysis, Automation, Scripting, Machine Learning Development
 
 ### 2. Cloud Platforms & Services 
@@ -69,18 +68,6 @@
 ### 3. Sentiment Analysis on Social Media Data
 - **Technologies:** Python, NLP, Flask, Heroku
 - Created a web app for analyzing sentiment trends from social media.
-
----
-
-## 📈 Skills Progression
-| Skill           | Expertise        | 
-|-----------------|------------------|
-| Python          | ★★★★★          |
-| SQL             | ★★★★☆          |
-| Docker          | ★★★★☆          |
-| TensorFlow      | ★★★★☆          |
-| Kubernetes      | ★★★☆☆          |
-| Apache Airflow  | ★★★☆☆          |
 
 ---
 
