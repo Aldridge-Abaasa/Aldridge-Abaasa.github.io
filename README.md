@@ -5,114 +5,83 @@
 
 ---
 
-## 🛠️ **Specialized Technical Skills** 
-*Hover over each skill for details.*
+## 🛠️ Specialized Technical Skills 
 
-### **1. Programming & Scripting** 
-- **Proficiency:** `Python` | `SQL` | `Bash`
-  - 📊 Data Analysis, Automation, Scripting, Machine Learning Development
+### 1. Programming & Scripting 
+- **Proficiency:** Python | SQL | Bash
+- **Applications:** Data Analysis, Automation, Scripting, Machine Learning Development
 
-### **2. Cloud Platforms & Services** 
-- **Platforms:** AWS | Azure | GCP 
-- **Tools:** 
-  - 🧠 **AWS SageMaker**
-  - ☁️ **GCP AI Platform**
-  - 🔧 **Azure ML**
-  - 🐳 **Docker**
-  - ⚙️ **Kubernetes**
+### 2. Cloud Platforms & Services 
+- **Platforms:** AWS, Azure, GCP 
+- **Tools:** AWS SageMaker, GCP AI Platform, Azure ML, Docker, Kubernetes
 
-### **3. Containerization & Orchestration**
-- **Technologies:** `Docker`, `Kubernetes`
-  - 🚀 Efficient Deployment and Scalable Microservices
+### 3. Containerization & Orchestration
+- **Technologies:** Docker, Kubernetes
 
-### **4. Continuous Integration/Continuous Deployment (CI/CD) for ML Pipelines**
-- **Tools:**
-  - 🔧 **Jenkins** 
-  - 💻 **GitLab CI**
-  - 🔄 **CircleCI**
-  - 📊 **MLflow**
-  - 📦 **DVC (Data Version Control)**
+### 4. CI/CD for ML Pipelines
+- **Tools:** Jenkins, GitLab CI, CircleCI, MLflow, DVC (Data Version Control)
 
-### **5. Data Engineering & ETL**
-- **Frameworks:** `Apache Airflow`, `Spark`
-  - 🔄 Data Pipeline Automation, Large-Scale Data Processing
+### 5. Data Engineering & ETL
+- **Frameworks:** Apache Airflow, Spark
 
-### **6. Model Deployment & Serving**
-- **Technologies:** 
-  - 🧠 **TensorFlow Serving**
-  - 🔥 **TorchServe**
-  - 🌐 **Flask**, **FastAPI**
-  - ⚛️ **ONNX**
+### 6. Model Deployment & Serving
+- **Technologies:** TensorFlow Serving, TorchServe, Flask, FastAPI, ONNX
 
 ---
 
-## 🎓 **Education**
+## 🎓 Education
 - **MSc. in Computer Science**  
-  _University College Dublin (UCD)_  
-  📅 **Expected Graduation:** December 2023  
-  *Courses:* Machine Learning, Data Engineering, AI Systems
+  University College Dublin (UCD)  
+  *Expected Graduation:* December 2023
   
 - **BSc. in Mathematics & Computer Science**  
-  _Uganda Martyrs' University (UMU)_  
-  📅 **Graduated:** November 2015  
-  *Courses:* Applied Mathematics, Software Development, Database Systems
+  Uganda Martyrs' University (UMU)  
+  *Graduated:* November 2015
 
 ---
 
-## 💼 **Work Experience**
-### **Data Scientist**
+## 💼 Work Experience
+### Data Scientist
 *Ireland's Centre for Artificial Intelligence (CeADAR)*  
-📅 _November 2023 - Present_  
-- 🔍 Conducting research on machine learning applications.
-- 🚀 Developing AI-driven solutions for industrial partners.
-- 🏆 Achieved 15% efficiency increase in data processing through optimized ML models.
+*November 2023 - Present*  
+- Research on machine learning applications.
+- Development of AI-driven solutions for industrial partners.
+- Improved data processing efficiency by 15%.
 
-### **Data Analyst**
+### Data Analyst
 *Uganda Bureau of Statistics (UBOS)*  
-📅 _April 2019 - August 2022_  
-- 📊 Analyzed national census data using Python & SQL.
-- 🛠️ Automated data collection pipelines, reducing manual errors by 30%.
-- 📈 Developed visualization dashboards to communicate key insights.
+*April 2019 - August 2022*  
+- Analyzed national census data using Python & SQL.
+- Automated data collection pipelines.
+- Developed dashboards to communicate key insights.
 
 ---
 
-## 📊 **Projects**
-### **1. Real-Time Fraud Detection System**
+## 📊 Projects
+### 1. Real-Time Fraud Detection System
 - **Technologies:** Python, TensorFlow, Docker, AWS Lambda
-- 🚀 **Description:** Developed a system that detects fraudulent transactions in real-time, integrating with payment systems.
-- **Key Achievements:** 
-  - Achieved 95% accuracy with low false-positive rates.
-  - Reduced processing time by 40% using optimized ML models.
+- Developed a system for detecting fraudulent transactions in real-time.
 
-### **2. Data Pipeline Automation for Retail Analytics**
+### 2. Data Pipeline Automation for Retail Analytics
 - **Technologies:** Apache Airflow, Spark, AWS Redshift
-- 🔄 **Description:** Built an automated ETL pipeline to process retail sales data from multiple sources, enabling near real-time analytics.
-- **Key Achievements:** 
-  - Integrated data from over 10+ sources.
-  - Reduced manual processing time by 50%.
+- Built an automated ETL pipeline for retail sales data processing.
 
-### **3. Sentiment Analysis on Social Media Data**
+### 3. Sentiment Analysis on Social Media Data
 - **Technologies:** Python, NLP, Flask, Heroku
-- 💬 **Description:** Built a web application to analyze sentiment trends from social media platforms.
-- **Key Achievements:** 
-  - Successfully processed 1 million+ tweets per day.
-  - Developed a user-friendly web interface for non-technical stakeholders.
+- Created a web app for analyzing sentiment trends from social media.
 
 ---
 
-## 📈 **Skills Progression**
-| **Skill**        | **Expertise**   | 
-|------------------|-----------------|
-| Python           | ★★★★★           |
-| SQL              | ★★★★☆           |
-| Docker           | ★★★★☆           |
-| TensorFlow       | ★★★★☆           |
-| Kubernetes       | ★★★☆☆           |
-| Apache Airflow   | ★★★☆☆           |
+## 📈 Skills Progression
+| Skill           | Expertise        | 
+|-----------------|------------------|
+| Python          | ★★★★★          |
+| SQL             | ★★★★☆          |
+| Docker          | ★★★★☆          |
+| TensorFlow      | ★★★★☆          |
+| Kubernetes      | ★★★☆☆          |
+| Apache Airflow  | ★★★☆☆          |
 
----
 ---
 
 > *“Empowering data-driven solutions through technology and innovation.”*
-
----
