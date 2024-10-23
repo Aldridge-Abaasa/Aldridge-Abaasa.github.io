@@ -31,7 +31,7 @@
 ## 🎓 Education
 - **MSc. in Computer Science**  
   University College Dublin (UCD)  
-  *Expected Graduation:* December 2023
+  *Graduated:* December 2023
   
 - **BSc. in Mathematics & Computer Science**  
   Uganda Martyrs' University (UMU)  
