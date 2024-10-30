@@ -56,18 +56,7 @@
 
 ---
 
-## 📊 Projects
-### 1. Real-Time Fraud Detection System
-- **Technologies:** Python, TensorFlow, Docker, AWS Lambda
-- Developed a system for detecting fraudulent transactions in real-time.
-
-### 2. Data Pipeline Automation for Retail Analytics
-- **Technologies:** Apache Airflow, Spark, AWS Redshift
-- Built an automated ETL pipeline for retail sales data processing.
-
-### 3. Sentiment Analysis on Social Media Data
-- **Technologies:** Python, NLP, Flask, Heroku
-- Created a web app for analyzing sentiment trends from social media.
+## 📊
 
 ---
 
