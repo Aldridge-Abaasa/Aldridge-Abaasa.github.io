@@ -1,8 +1,4 @@
-# 🧠 Computer Science Researcher / Software Systems Developer
-
-🔧 **Building resilient systems and exploring the interface between software architecture, infrastructure, and intelligent computation.**
-
----
+# 🧠 Researcher / Software Systems Developer
 
 ## 💡 Focus Areas
 
@@ -28,5 +24,3 @@
 - Designing libraries with pluggable architecture for real-time diagnostics  
 
 ---
-
-> *Research-driven engineering meets production-ready systems.*
